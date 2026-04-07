@@ -3,8 +3,6 @@ from rag import get_similarity_score, query_rag, get_top_k_with_scores
 from tools import search_tool
 from llm import generate
 
-
-# -------- ROUTER NODE --------
 # -------- ROUTER NODE --------
 def router_node(state):
     query = state["query"].lower()
