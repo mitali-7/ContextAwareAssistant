@@ -8,8 +8,6 @@ A smart AI assistant for companies built using a RAG pipeline. It scrapes and in
 
 git clone https://github.com/your-username/ContextAwareAssistant.git
 
-cd DebalesChatbot
-
 2. Create and Activate Virtual Environment
 
 Using Conda:
